@@ -1,0 +1,11 @@
+body{
+    text-align: center;
+    background: #FFFF;
+}
+.container{
+    margin-top: 5em;
+    border:1px  rgb(68, 67, 67);
+}
+form{
+    text-align: left;
+}
