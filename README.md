@@ -1,2 +1,2 @@
 # Login-auth
-Login auth made with JS, Node and Firebase
+Login auth made with JS, Node + Express and PostgreSQL 
